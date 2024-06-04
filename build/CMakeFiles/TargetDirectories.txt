@@ -1,0 +1,8 @@
+/home/genevieve/opt/basic/B1a/build/CMakeFiles/exampleB1.dir
+/home/genevieve/opt/basic/B1a/build/CMakeFiles/B1.dir
+/home/genevieve/opt/basic/B1a/build/CMakeFiles/edit_cache.dir
+/home/genevieve/opt/basic/B1a/build/CMakeFiles/rebuild_cache.dir
+/home/genevieve/opt/basic/B1a/build/CMakeFiles/list_install_components.dir
+/home/genevieve/opt/basic/B1a/build/CMakeFiles/install.dir
+/home/genevieve/opt/basic/B1a/build/CMakeFiles/install/local.dir
+/home/genevieve/opt/basic/B1a/build/CMakeFiles/install/strip.dir
